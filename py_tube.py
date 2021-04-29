@@ -16,7 +16,7 @@ def init():
             os.system('cls' if os.name == 'nt' else 'clear')
             program_main()
         elif program < 0 or program > 1:
-            print('# Opção inválida # ')
+            print('## Opção inválida ##\n')
             init()
     except ValueError:
         print('\n## Digite um opção válida ##\n')
