@@ -1,6 +1,6 @@
 
-Project Python to download vídeo and playlist from Youtube.
 ## Py-Tube-Downloader 1.0 - Learning Python:
+ - Project Python to download vídeo and playlist from Youtube.
 
 
 ### requeriments:
